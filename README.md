@@ -47,12 +47,16 @@ To develop the project, you can follow these steps:
 4. Start the development server:
 
    ```bash
-    npm run server
+    npm run dev
    ```
 
 ## Visual
 
 <img src="/public/translate_app.gif" alt="translate-app-gif">
+
+## Live Demo
+
+<a href="https://texttranslateapp.netlify.app/">Netlify Project View</a>
 
 ## API
 

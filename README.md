@@ -29,13 +29,13 @@ To develop the project, you can follow these steps:
 1. Clone the project.
 
    ```bash
-   https://github.com/emreertugrl/Toolkit_Job_App.git
+   https://github.com/emreertugrl/Translate_App.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Toolkit_Job_App
+   cd Translate_App
    ```
 
 3. Install the dependencies:
@@ -52,7 +52,7 @@ To develop the project, you can follow these steps:
 
 ## Visual
 
-<img src="/public/job-app.gif" alt="job-app-gif">
+<img src="/public/translate_app.gif" alt="translate-app-gif">
 
 ## API
 
@@ -64,16 +64,3 @@ For any questions or suggestions, feel free to reach out:
 
 - Email: emreertugrl7@gmail.com
 - LinkedIn: [emreertugrul7](https://www.linkedin.com/in/emreertugrul7/)
-
-# kütüphaneler
-
-@reduxjs/toolkit
-react-redux
-react-select
-axios
-browser-router-dom
-tailwind
-
-# api
-
-https://rapidapi.com/dickyagustin/api/text-translator2/playground/apiendpoint_d3efc78f-2d7f-45a8-8c5d-41571384d1e8
